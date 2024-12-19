@@ -6,11 +6,12 @@
 
 </div>
 <div align="center">
-  <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B2005848&show_icons=true&theme=ambient_gradient"     
-     style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=B2005848&show_icons=true&theme=ambient_gradient" />
-
-
+  <div style="display: flex; justify-content: space-between">
+    <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B2005848&show_icons=true&theme=ambient_gradient"/>
+    </div>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=B2005848&show_icons=true&theme=ambient_gradient" />
+    </div>
   </div>
 </div>
