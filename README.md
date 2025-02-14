@@ -9,7 +9,9 @@
       <img src="https://github-readme-stats.vercel.app/api?username=B2005848&show_icons=true&theme=ambient_gradient" />
     </div>
 
-   <div>
-
-   </div>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 </div>
