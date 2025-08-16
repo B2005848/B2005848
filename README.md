@@ -1,7 +1,15 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=120&section=header&text=Welcome%20to%20Nam's%20Profile!&fontSize=30&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
+</p>
+
 <h1 align="center">👋 Hi there, I'm B2005848, you can call me Nam.</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Web+Developer;JavaScript+%7C+Vue.js+%7C+Node.js+%7C+TypeScript;Next.js+%7C+TailwindCSS;Always+learning+and+sharing+knowledge" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/134608258?v=4" width="120" style="border-radius:50%;" alt="Nam's Avatar" />
 </p>
 
 ---
